@@ -1,0 +1,31 @@
+html{
+    overflow: hidden;
+}
+body{
+    background-color: rgba(170, 170, 170, 0.959);
+}
+.menu{
+}
+.menu a{
+    background-color: white;
+    padding: 1.5em;
+    font-size: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    color: black;
+    border-radius: 20%;
+}
+.menu a:hover{
+    transition: 0.5s;
+    color: white;
+    background-color: black;
+    padding: 1.2em;
+}
+.menu:hover{
+
+}
+ul{
+    margin-top: 1.40em;
+    display: flex;
+    justify-content: center;
+}
